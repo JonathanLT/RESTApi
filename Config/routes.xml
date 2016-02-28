@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<routes>
+    <url>
+        <route>/</route>
+        <controller></controller>
+    </url>
+    <url>
+        <route>users/%d</route>
+        <controller>App/Controller/Users</controller>
+    </url>
+</routes>
